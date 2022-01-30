@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NimRound
+comment0.text=\n\ Write\ a\ description\ of\ class\ NimRound\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=NimRound()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ NimRound\n
+comment2.params=row1\ row2\ row3
+comment2.target=NimRound(int,\ int,\ int)
+comment3.params=a
+comment3.target=void\ setRow1(int)
+comment4.params=b
+comment4.target=void\ setRow2(int)
+comment5.params=c
+comment5.target=void\ setRow3(int)
+comment6.params=row
+comment6.target=int[]\ binaryList(int)
+comment7.params=row1\ row2\ row3
+comment7.target=int\ nimSum(int[],\ int[],\ int[])
+numComments=8
